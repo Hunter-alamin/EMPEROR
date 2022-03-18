@@ -8,13 +8,14 @@ $ pkg install git
 $ pip install bs4 mechanize requests
 $ git clone https://github.com/Hunter-alamin/EMPEROR
 $ cd EMPEROR
-$ python EMPEROR.py
+$ chmod +x EMPEROR
+$ ./EMPEROR
 
 ````
 
 # SINGLE COMMAND
 ````
-$ pkg install python python2 git && pip install bs4 mechanize requests && git clone https://github.com/Hunter-alamin/EMPEROR && cd EMPEROR && python EMPEROR.py
+$ pkg install python python2 git && pip install bs4 mechanize requests && git clone https://github.com/Hunter-alamin/EMPEROR && cd EMPEROR && chmod +x EMPEROR && ./EMPEROR
 
 ````
 
