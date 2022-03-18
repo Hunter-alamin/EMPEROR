@@ -28,7 +28,7 @@ Download Link ==> https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-v
 * NOTE : THIS TOOL IS ONLY WORKING FOR 64BIT DEVICES 
 
 SCREENSHOT👇
-![](https://raw.githubusercontent.com/Hunter-alamin/EMPEROR/main/IMG_20220215_151840.jpg)
+![](https://github.com/Hunter-alamin/EMPEROR/blob/main/Screenshot_2022-03-18-13-45-10-16_84d3000e3f4017145260f7618db1d683.jpg)
 
 SPECIAL THANKS TO :
 ````
