@@ -2,6 +2,7 @@
 # COMMANDS 
 
 ````
+$ apt update && apt upgrade -y
 $ pkg install python
 $ pkg install python2
 $ pkg install git
@@ -15,7 +16,7 @@ $ ./EMPEROR
 
 # SINGLE COMMAND
 ````
-$ pkg install python python2 git && pip install bs4 mechanize requests && git clone https://github.com/Hunter-alamin/EMPEROR && cd EMPEROR && chmod +x EMPEROR && ./EMPEROR
+$ apt update && apt upgrade -y && pkg install python python2 git && pip install bs4 mechanize requests && git clone https://github.com/Hunter-alamin/EMPEROR && cd EMPEROR && chmod +x EMPEROR && ./EMPEROR
 
 ````
 
